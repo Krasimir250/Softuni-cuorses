@@ -1,3 +1,0 @@
-help for 30.Loops => Ex2;
-help for 31.Loops => Ex1 (80/100);
-help with all from 31.Loops;
